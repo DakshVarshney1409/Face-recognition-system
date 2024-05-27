@@ -16,7 +16,7 @@ To set up this project locally, follow these steps:
     ```
 3. Install the required packages:
     ```bash
-    pip install numpy opencv-python
+    pip install numpy opencv-python os
     ```
 
 ## Usage
@@ -34,5 +34,5 @@ python face_data_collect.py
 Run the script to recognize faces in a video stream:
 
 ```bash
-python capture_faces.py
+python face_recognition.py
 ```
