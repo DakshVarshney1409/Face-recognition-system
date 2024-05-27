@@ -26,7 +26,7 @@ To set up this project locally, follow these steps:
 Run the script to capture images and generate training data:
 
 ```bash
-python capture_faces.py
+python face_data_collect.py
 ```
 
 ### 2. Recognise Faces
